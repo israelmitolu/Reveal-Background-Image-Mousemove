@@ -5,6 +5,8 @@ Simple technique that uses JavaScript to track the movement of a user's mouse cu
 Learn how to recreate this effect using HTML, CSS and JavaScript in [this article](https://israelmitolu.hashnode.dev).
 
 ## Screenshot
+![Reveal Background Image on Mousemove](https://user-images.githubusercontent.com/53873209/235169078-a5c04dc6-0a72-457d-84ac-bccb193741fd.gif)
+
 
 ## Live Site
 
